@@ -63,3 +63,9 @@ for create brach
 git branch feature
 
 switch branch
+git branch -
+
+DELETE BRANCHES
+git branch -b to-delete
+git branch checkout -
+git branch -d to-delete
