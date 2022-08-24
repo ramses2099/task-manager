@@ -72,5 +72,5 @@ git branch checkout -
 git branch -d to-delete
 
 MERGE BRANCHES
-git merge feautureg
+git merge feuture
 
